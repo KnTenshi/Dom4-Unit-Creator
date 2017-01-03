@@ -38,6 +38,7 @@
 		{
 			get
 			{
+                return false;
 				return this.isDisposed;
 			}
 		}
